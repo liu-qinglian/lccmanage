@@ -1,0 +1,27 @@
+{
+    "id": "1",
+    "name": "系统管理员",
+    "phone": "13812361398",
+    "telephone": "71937538",
+    "address": "香湛特别行政区强县长寿123",
+    "enabled": true,
+    "username": "admin",
+    "password": null,
+    "userFace": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fitem%2F202004%2F01%2F20200401100914_vrdlk.thumb.1000_0.jpg&refer=http%3A%2F%2Fc-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1663581867&t=f6ae6f0a889546a95f222cfaa53ae0ad",
+    "remark": null,
+    "roles": [
+        {
+            "id": 6,
+            "name": "ROLE_admin",
+            "nameZh": "系统管理员"
+        }
+    ],
+    "authorities": [
+        {
+            "authority": "ROLE_admin"
+        }
+    ],
+    "accountNonExpired": true,
+    "credentialsNonExpired": true,
+    "accountNonLocked": true
+}

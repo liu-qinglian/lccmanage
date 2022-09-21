@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "技术总监",
+        "createDate": "2028-03-31",
+        "enabled": true
+    },
+    {
+        "id": 2,
+        "name": "运营总监",
+        "createDate": "2020-03-31",
+        "enabled": true
+    },
+    {
+        "id": 3,
+        "name": "市场总监",
+        "createDate": "2028-03-31",
+        "enabled": true
+    },
+    {
+        "id": 4,
+        "name": "研发工程师",
+        "createDate": "2828-03-31",
+        "enabled": true
+    },
+    {
+        "id": 5,
+        "name": "运维工程师",
+        "createDate": "2820-03-31",
+        "enabled": true
+    }
+]

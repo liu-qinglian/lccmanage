@@ -1,0 +1,282 @@
+[
+    {
+        "id": 1,
+        "url": null,
+        "path": null,
+        "component": null,
+        "name": "所有",
+        "iconcls": null,
+        "keepAlive": null,
+        "requireAuth": null,
+        "parentId": null,
+        "enabled": null,
+        "children": [
+            {
+                "id": 2,
+                "url": null,
+                "path": null,
+                "component": null,
+                "name": "员工资料",
+                "iconCls": null,
+                "keepAlive": null,
+                "requireAuth": null,
+                "parentId": null,
+                "enabled": null,
+                "children": [
+                    {
+                        "id": 7,
+                        "url": null,
+                        "path": null,
+                        "component": null,
+                        "name": "基本资料",
+                        "iconCls": null,
+                        "keepAlive": null,
+                        "requireAuth": null,
+                        "parentld": null,
+                        "enabled": null,
+                        "children": null,
+                        "roles": null
+                    },
+                    {
+                        "id": 8,
+                        "url": null,
+                        "path": null,
+                        "component": null,
+                        "name": "高级资料",
+                        "iconCls": null,
+                        "keepAlive": null,
+                        "requireAuth": null,
+                        "parentld": null,
+                        "enabled": null,
+                        "children": null,
+                        "roles": null
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "url": null,
+                "path": null,
+                "component": null,
+                "name": "人事管理",
+                "iconCls": null,
+                "keepAlive": null,
+                "requireAuth": null,
+                "parentId": null,
+                "enabled": null,
+                "children": [
+                    {
+                        "id": 9,
+                        "url": null,
+                        "path": null,
+                        "component": null,
+                        "name": "员工资料",
+                        "iconCls": null,
+                        "keepAlive": null,
+                        "requireAuth": null,
+                        "parentld": null,
+                        "enabled": null,
+                        "children": null,
+                        "roles": null
+                    },
+                    {
+                        "id": 10,
+                        "url": null,
+                        "path": null,
+                        "component": null,
+                        "name": "员工奖惩",
+                        "iconCls": null,
+                        "keepAlive": null,
+                        "requireAuth": null,
+                        "parentld": null,
+                        "enabled": null,
+                        "children": null,
+                        "roles": null
+                    },
+                    {
+                        "id": 11,
+                        "url": null,
+                        "path": null,
+                        "component": null,
+                        "name": "员工培训",
+                        "iconCls": null,
+                        "keepAlive": null,
+                        "requireAuth": null,
+                        "parentld": null,
+                        "enabled": null,
+                        "children": null,
+                        "roles": null
+                    },
+                    {
+                        "id": 12,
+                        "url": null,
+                        "path": null,
+                        "component": null,
+                        "name": "员工调薪",
+                        "iconCls": null,
+                        "keepAlive": null,
+                        "requireAuth": null,
+                        "parentld": null,
+                        "enabled": null,
+                        "children": null,
+                        "roles": null
+                    },
+                    {
+                        "id": 13,
+                        "url": null,
+                        "path": null,
+                        "component": null,
+                        "name": "员工调动",
+                        "iconCls": null,
+                        "keepAlive": null,
+                        "requireAuth": null,
+                        "parentld": null,
+                        "enabled": null,
+                        "children": null,
+                        "roles": null
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "url": null,
+                "path": null,
+                "component": null,
+                "name": "薪资管理",
+                "iconCls": null,
+                "keepAlive": null,
+                "requireAuth": null,
+                "parentId": null,
+                "enabled": null,
+                "children": [
+                    {
+                        "id": 14,
+                        "url": null,
+                        "path": null,
+                        "component": null,
+                        "name": "工资账单管理",
+                        "iconCls": null,
+                        "keepAlive": null,
+                        "requireAuth": null,
+                        "parentld": null,
+                        "enabled": null,
+                        "children": null,
+                        "roles": null
+                    },
+                    {
+                        "id": 15,
+                        "url": null,
+                        "path": null,
+                        "component": null,
+                        "name": "员工账单管理",
+                        "iconCls": null,
+                        "keepAlive": null,
+                        "requireAuth": null,
+                        "parentld": null,
+                        "enabled": null,
+                        "children": null,
+                        "roles": null
+                    },
+                    {
+                        "id": 16,
+                        "url": null,
+                        "path": null,
+                        "component": null,
+                        "name": "工资表管理",
+                        "iconCls": null,
+                        "keepAlive": null,
+                        "requireAuth": null,
+                        "parentld": null,
+                        "enabled": null,
+                        "children": null,
+                        "roles": null
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "url": null,
+                "path": null,
+                "component": null,
+                "name": "统计管理",
+                "iconCls": null,
+                "keepAlive": null,
+                "requireAuth": null,
+                "parentId": null,
+                "enabled": null,
+                "children": [
+                    {
+                        "id": 17,
+                        "url": null,
+                        "path": null,
+                        "component": null,
+                        "name": "统计管理1",
+                        "iconCls": null,
+                        "keepAlive": null,
+                        "requireAuth": null,
+                        "parentld": null,
+                        "enabled": null,
+                        "children": null,
+                        "roles": null
+                    },
+                    {
+                        "id": 18,
+                        "url": null,
+                        "path": null,
+                        "component": null,
+                        "name": "统计管理2",
+                        "iconCls": null,
+                        "keepAlive": null,
+                        "requireAuth": null,
+                        "parentld": null,
+                        "enabled": null,
+                        "children": null,
+                        "roles": null
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "url": null,
+                "path": null,
+                "component": null,
+                "name": "系统管理",
+                "iconCls": null,
+                "keepAlive": null,
+                "requireAuth": null,
+                "parentId": null,
+                "enabled": null,
+                "children": [
+                    {
+                        "id": 19,
+                        "url": null,
+                        "path": null,
+                        "component": null,
+                        "name": "系统管理1",
+                        "iconCls": null,
+                        "keepAlive": null,
+                        "requireAuth": null,
+                        "parentld": null,
+                        "enabled": null,
+                        "children": null,
+                        "roles": null
+                    },
+                    {
+                        "id": 20,
+                        "url": null,
+                        "path": null,
+                        "component": null,
+                        "name": "系统管理2",
+                        "iconCls": null,
+                        "keepAlive": null,
+                        "requireAuth": null,
+                        "parentld": null,
+                        "enabled": null,
+                        "children": null,
+                        "roles": null
+                    }
+                ]
+            }
+        ]
+    }
+]

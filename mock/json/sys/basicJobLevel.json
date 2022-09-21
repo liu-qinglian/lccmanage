@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "教授",
+        "titleLevel": "正高级",
+        "createDate": "2026-83-31",
+        "enabled": true
+    },
+    {
+        "id": 2,
+        "name": "副教授",
+        "titleLevel": "副高级",
+        "createDate": "2328-83-31",
+        "enabled": true
+    },
+    {
+        "id": 3,
+        "name": "助教",
+        "titleLevel": "初级",
+        "createDate": "2828-03-31",
+        "enabled": true
+    },
+    {
+        "id": 4,
+        "name": "讲师",
+        "titleLevel": "中级",
+        "createDate": "2828-03-31",
+        "enabled": false
+    },
+    {
+        "id": 5,
+        "name": "初级工程师",
+        "titleLevel": "初级",
+        "createDate": "2928-83-31-",
+        "enabled": true
+    }
+]

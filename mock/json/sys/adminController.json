@@ -1,0 +1,142 @@
+[
+    {
+        "id": 2,
+        "name": "何湖华123",
+        "phone": "18875971675",
+        "telephone": "41413189",
+        "address": "河北省秀荣币柔山长沙街p座737268",
+        "enabled": true,
+        "username": "taomeng",
+        "password": "$2a$10$ogvuqzZAxrBwrmVI/e7 . SuFYyx8my8d . 9236bs91PKWvbD9eefyCe",
+        "userFace": "https://c-ssl.dtstatic.com/uploads/blog/202112/20/20211220073558_97a0a.thumb.1000_0.jpeg",
+        "remark": null,
+        "roles": [
+            {
+                "id": 1,
+                "name": "ROLE manager",
+                "nameZh": "部门经理"
+            },
+            {
+                "id": 3,
+                "name": "ROLE recruiter",
+                "nameZh": "招聘主管"
+            }
+        ],
+        "authorities": [
+            {
+                "authority": "ROLE_manager"
+            },
+            {
+                "authority": "ROLE_recruiter"
+            }
+        ],
+        "accountNonLocked": true,
+        "accountiNonExpired": true,
+        "credentialsNonExpired": true
+    },
+    {
+        "id": 3,
+        "name": "宋玺123",
+        "phone": "13875431325",
+        "telephone": "421122112",
+        "address": "河北省秀荣币柔山长沙街p座大",
+        "enabled": true,
+        "username": "namhc",
+        "password": "11111",
+        "userFace": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fblog%2F202107%2F17%2F20210717232533_2edcf.thumb.1000_0.jpg&refer=http%3A%2F%2Fc-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1663551923&t=e7ac197318502b67a73cdec80d17dd6c",
+        "remark": null,
+        "roles": [
+            {
+                "id": 3,
+                "name": "ROLE manager",
+                "nameZh": "招聘主管"
+            },
+            {
+                "id": 4,
+                "name": "ROLE recruiter",
+                "nameZh": "培训主管"
+            }
+        ],
+        "authorities": [
+            {
+                "authority": "ROLE_train"
+            },
+            {
+                "authority": "ROLE_recruiter"
+            }
+        ],
+        "accountNonLocked": true,
+        "accountiNonExpired": true,
+        "credentialsNonExpired": true
+    },
+    {
+        "id": 4,
+        "name": "零番队",
+        "phone": "12564371675",
+        "telephone": "41413189",
+        "address": "河北省秀荣币柔山长沙街p座737268",
+        "enabled": true,
+        "username": "xnxxx",
+        "password": "3333333",
+        "userFace": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fitem%2F201908%2F19%2F20190819150344_ALnaX.thumb.1000_0.jpeg&refer=http%3A%2F%2Fc-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1663551923&t=0caab00d0d37259d3ad309d5e30db5b3",
+        "remark": null,
+        "roles": [
+            {
+                "id": 3,
+                "name": "ROLE recruiter",
+                "nameZh": "招聘主管"
+            },
+            {
+                "id": 1,
+                "name": "ROLE personnel",
+                "nameZh": "人事专员"
+            }
+        ],
+        "authorities": [
+            {
+                "authority": "ROLE_manager"
+            },
+            {
+                "authority": "ROLE_personnel"
+            }
+        ],
+        "accountNonLocked": true,
+        "accountiNonExpired": true,
+        "credentialsNonExpired": true
+    },
+    {
+        "id": 5,
+        "name": "挖洋芋",
+        "phone": "12543371455",
+        "telephone": "452325252",
+        "address": "河北省秀荣币柔山长沙街p座737268",
+        "enabled": true,
+        "username": "taomeng",
+        "password": "111",
+        "userFace": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fitem%2F202005%2F02%2F20200502185802_FuFU2.thumb.1000_0.jpeg&refer=http%3A%2F%2Fc-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1663551923&t=a42488375f337bd37b791eecb74e55ed",
+        "remark": null,
+        "roles": [
+            {
+                "id": 1,
+                "name": "ROLE manager",
+                "nameZh": "部门经理"
+            },
+            {
+                "id": 3,
+                "name": "ROLE recruiter",
+                "nameZh": "招聘主管"
+            }
+        ],
+        "authorities": [
+            {
+                "authority": "ROLE_manager"
+            },
+            {
+                "authority": "ROLE_recruiter"
+            }
+        ],
+        "accountNonLocked": true,
+        "accountiNonExpired": true,
+        "credentialsNonExpired": true
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "RoLE_manager",
+        "nameZh": "部门经理"
+    },
+    {
+        "id": 2,
+        "name": "ROLE_personnel",
+        "nameZh": "人事专员"
+    },
+    {
+        "id": 3,
+        "name": "ROLE_recruiter",
+        "nameZh": "招聘主管"
+    },
+    {
+        "id": 4,
+        "name": "ROLE_train",
+        "nameZh": "培训主管"
+    },
+    {
+        "id": 5,
+        "name": "ROLE_performance",
+        "nameZh": "薪资绩效主管"
+    },
+    {
+        "id": 6,
+        "name": "ROLE_admin",
+        "nameZh": "系统管理员"
+    }
+]

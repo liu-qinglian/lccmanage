@@ -1,0 +1,126 @@
+[
+    {
+        "id": 1,
+        "name": "股东会",
+        "parentId": -1,
+        "depPath": ".1",
+        "enabled": true,
+        "isParent": true,
+        "children": [
+            {
+                "id": 2,
+                "name": "量事会",
+                "parentId": 1,
+                "depPath": ".1.2",
+                "enabled": true,
+                "isParent": true,
+                "children": [
+                    {
+                        "id": 3,
+                        "name": "总办",
+                        "parentId": 2,
+                        "depPath": ".1.2.3",
+                        "enabled": true,
+                        "isParent": true,
+                        "children": [
+                            {
+                                "id": 4,
+                                "name": "财务部",
+                                "parentId": 3,
+                                "depPath": ".i.2.3.4",
+                                "enabled": true,
+                                "isParent": false,
+                                "children": [],
+                                "result": null
+                            },
+                            {
+                                "id": 5,
+                                "name": "市场部",
+                                "parentId": 3,
+                                "depPath": ".1.2.3.5",
+                                "enabled": true,
+                                "isParent": true,
+                                "children": [
+                                    {
+                                        "id": 6,
+                                        "name": "华东市场部",
+                                        "parentId": 5,
+                                        "depPath": ".1.2.3.5.6",
+                                        "enabled": true,
+                                        "isParent": true,
+                                        "children": [
+                                            {
+                                                "id": 8,
+                                                "name": "上海市场部",
+                                                "parentId": 6,
+                                                "depPath": ".1.2.3.5.6.8",
+                                                "enabled": true,
+                                                "isParent": false,
+                                                "children": [],
+                                                "result": null
+                                            }
+                                        ],
+                                        "result": null
+                                    },
+                                    {
+                                        "id": 7,
+                                        "name": "华南市场部",
+                                        "parentId": 5,
+                                        "depPath": ".1.2.3.5.7",
+                                        "enabled": true,
+                                        "isParent": false,
+                                        "children": [],
+                                        "result": null
+                                    },
+                                    {
+                                        "id": 9,
+                                        "name": "西北市场部",
+                                        "parentId": 5,
+                                        "depPath": ".1.2.3.5.9",
+                                        "enabled": true,
+                                        "isParent": true,
+                                        "children": [
+                                            {
+                                                "id": 10,
+                                                "name": "贵阳市场部",
+                                                "parentId": 9,
+                                                "depPath": ".1.2.3.5.9.10",
+                                                "enabled": true,
+                                                "isParent": true,
+                                                "children": [
+                                                    {
+                                                        "id": 11,
+                                                        "name": "乌当区市场部",
+                                                        "parentId": 10,
+                                                        "depPath": ".1.2.3.5.9.10.11",
+                                                        "enabled": true,
+                                                        "isParent": false,
+                                                        "children": [],
+                                                        "result": null
+                                                    }
+                                                ],
+                                                "result": null
+                                            }
+                                        ],
+                                        "result": null
+                                    }
+                                ],
+                                "result": null
+                            },
+                            {
+                                "id": 12,
+                                "name": "技术部",
+                                "parentId": 3,
+                                "depPath": ".1.2.3.12",
+                                "enabled": true,
+                                "isParent": false,
+                                "children": [],
+                                "result": null
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
